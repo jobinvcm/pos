@@ -1,0 +1,14 @@
+uuid: 19558f5f-b0de-4541-9ee4-e6b572739ea4
+name: 'Property On Sale'
+mail: nucleustechau@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
